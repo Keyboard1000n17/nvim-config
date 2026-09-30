@@ -1,4 +1,4 @@
 return {
-  "AstroNvim/astrocommunity",
-  { import = "astrocommunity.colorscheme.catppuccin" },
+	"AstroNvim/astrocommunity",
+	{ import = "astrocommunity.colorscheme.catppuccin" },
 }
